@@ -1,5 +1,5 @@
 # Currency Converter
-A Python-based Currency Converter with an intuitive GUI that allows users to create secure and customizable passwords. Built with flexibility in mind, the tool offers predefined modes and a custom mode for full user control.
+A Python-based Currency Converter with a modern GUI built using ttkbootstrap. Features include real-time exchange rates, dynamic updates, a convenient currency swap button, and a responsive, user-friendly design.
 
 
 ## Features
@@ -13,13 +13,13 @@ A Python-based Currency Converter with an intuitive GUI that allows users to cre
 
 ## Screenshots
 <div align="center">
-    <img src="./assets/screenshots/capture.png" alt="Screenshot 1" style="height: 300px;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="./assets/screenshots/capture2.png" alt="Screenshot 2" style="height: 300px;">
+    <img src="./assets/screenshots/capture.png" alt="Screenshot 1" style="height: 250px;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="./assets/screenshots/capture2.png" alt="Screenshot 2" style="height: 250px;">
 </div>
 <p></p>
 <div align="center">
-    <img src="./assets/screenshots/capture3.png" alt="Screenshot 3" style="height: 300px;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="./assets/screenshots/capture4.png" alt="Screenshot 4" style="height: 300px;">
+    <img src="./assets/screenshots/capture3.png" alt="Screenshot 3" style="height: 250px;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="./assets/screenshots/capture4.png" alt="Screenshot 4" style="height: 250px;">
 </div>
 
 ## Instalation (Create Standalone Executable)
