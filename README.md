@@ -1,5 +1,5 @@
 # Currency Converter
-A Python-based Currency Converter with a modern GUI built using ttkbootstrap. Features include real-time exchange rates, dynamic updates, a convenient currency swap button, and a responsive, user-friendly design.
+A Python-based currency converter with a modern GUI built using ttkbootstrap. Features include real-time exchange rates, dynamic updates, a convenient currency swap button, and a responsive, user-friendly design.
 
 
 ## Features
@@ -29,10 +29,10 @@ Follow these steps to set up and run the **Currency Converter** on your computer
 <img src=".\assets\py-to-exe.png" width="300" align="right"/>
 
 1. Download the repository as a zip file and unzip it.
-2. Open your terminal or command prompt and navigate to the currency converter directory by typing `cd path/to/your/directory/password-generator-main`.
+2. Open your terminal or command prompt and navigate to the currency converter directory by typing `cd path/to/your/directory/currency-converter-main`.
 3. In the command prompt now type `pip install -r requirements.txt` to download the required packages.
 4. Now you should type `pyinstaller --onefile --noconsole --add-data "assets/icon.png;assets" --add-data "assets/icon.ico;assets" --hidden-import "ttkbootstrap" --icon "assets/icon.ico" --distpath . "Currency Converter.py" & rmdir /s /q build & del "Currency Converter.spec"` to install the currency converter as a standalone executable.
-4. Now the Currency Converter.exe file should be in password-generator-main and you can run it.
+4. Now the Currency Converter.exe file should be in currency-converter-main and you can run it.
 
 
 ## Troubleshooting
